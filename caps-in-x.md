@@ -1,4 +1,4 @@
-# Use Caps Lock for escape
+# Use Caps Lock for escape in X11
 
 Edit `/etc/X11/xorg.conf.d/00-keyboard`:
 
